@@ -1,6 +1,0 @@
-
-services:
-  keycloak:
-    ports:
-      - "9000:9000"
-      - "8080:8080"
